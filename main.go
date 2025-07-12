@@ -24,5 +24,6 @@ func Setup() *fiber.App {
 		})
 	})
 
+	// Return the configured app
 	return app
 }
