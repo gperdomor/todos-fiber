@@ -3,7 +3,7 @@ module github.com/gperdomor/todos-fiber
 go 1.24.4
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.8
+	github.com/gofiber/fiber/v2 v2.52.10
 	github.com/stretchr/testify v1.10.0
 )
 
